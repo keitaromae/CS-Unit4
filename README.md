@@ -1,8 +1,8 @@
-# CS-Unit4
+# CS Unit4
 
 **Computer Science IA**
 
-**G12 Keitaro Mae**
+**Record of Tasks**
 
 Table of Contents
 ----
