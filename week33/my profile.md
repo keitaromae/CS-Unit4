@@ -144,3 +144,5 @@ body {
 </body>
 </html>
 ```
+
+Reference: https://digipress.info/tech/css-spinner-animation-demo/
