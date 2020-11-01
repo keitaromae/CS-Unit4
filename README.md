@@ -26,9 +26,16 @@ Table of Contents
 
 Planning
 ----
+### Defining problem
+Knowing the issues that client is facing and reason why they need this program for.
+This is the email sent from my client.
 
+### Solution proposed
+
+### Success criteria
 Design
 ----
+### Ui Design Concept
 
 Development
 ----
